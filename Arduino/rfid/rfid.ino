@@ -10,7 +10,7 @@
 
 #ifndef APPSSID
 #define APPSSID "Thinh"  // existing Wifi network
-#define APPSK "0903918799"
+#define APPSK "**********"
 const char *URL_ADD = "http://192.168.1.4:1234/add";
 #endif
 
