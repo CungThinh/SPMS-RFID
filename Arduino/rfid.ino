@@ -9,8 +9,8 @@
 
 #ifndef APSSID
 #define APSSID "Thinh"  // existing Wifi network
-#define APPSK "0903918799"
-const char *URL = "http://192.168.1.2:1234/add";
+#define APPSK "*********"
+const char *URL = "***************";
 #endif
 
 const char *ssid = APSSID;
